@@ -1,0 +1,56 @@
+body, h1 {
+	margin: 0;
+	box-sizing: border-box;
+}
+.header {
+	background-color: #000;
+	color: white;
+	margin: 0;
+	padding: 10px;
+	
+}
+.header h1 {
+	font-weight: lighter;
+	font-family: arial;
+	padding-left: 10px;
+}
+.menu {
+	float: left;
+	width: 30%;
+	background-color: #ddd;
+}
+.menu h2 {
+	font-weight: lighter;
+	font-family: arial;
+	padding-left: 20px;
+}
+.menu ul {
+	margin-bottom: 14px;
+	padding-left: 60px;
+
+}
+.content {
+	position: static;
+	padding-left: 400px;
+
+}
+.content h2 {
+	font-family: arial;
+	font-weight: lighter;
+	padding-left: 200px;
+}
+.content p {
+	padding-left: 200px;
+}
+.footer {
+	background-color: silver;
+	color: white;
+	text-align: center;
+	font-family: arial;
+	font-size: 12px;
+	height: 30px;
+	padding-top: 10px;
+}
+.footer p {
+	margin: 0;
+}

@@ -1,0 +1,46 @@
+body {
+	box-sizing: border-box;
+	margin: 0;
+	background-color: grey;
+}
+.clearfix {
+	clear: both;
+}
+.caja {
+	 height: 10%;
+	 width: 24.2%;
+	 margin: 5px;
+	 padding: 50px;
+	 float: left;
+	 position: relative;
+	 box-sizing: border-box;
+	 background-color: silver;
+}
+a:-webkit-any-link {
+    color: silver;
+    cursor: auto;
+    text-decoration: none;
+    text-decoration-color: silver; 
+}
+.navbar {
+	background-color: black;
+	height: 50px;
+	width: 100%;
+	margin-top: 0;
+	margin-bottom: 0;
+	position: fixed;
+	z-index: 100;
+}
+.navbar li {
+	list-style-type: none;
+	float: left;
+	padding: 20px;
+	font-family: sans-serif;
+	color: silver;
+}
+.section {
+	background-color: gray;
+	padding: 20px;
+	color: silver;
+}
+

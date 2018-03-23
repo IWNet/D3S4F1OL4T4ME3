@@ -1,0 +1,10 @@
+.caja {
+  float: left;
+  position: relative;
+
+}
+.ribbon {
+  top: 44px;
+  left: 29px;
+  position: absolute;
+}

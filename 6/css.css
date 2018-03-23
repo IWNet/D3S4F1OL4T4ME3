@@ -1,0 +1,12 @@
+.caja {
+	position: relative;
+}
+.ribbon {
+	position: absolute;
+	left: 150px;
+	top: 150px;
+	
+}
+p {
+	color: silver;
+}

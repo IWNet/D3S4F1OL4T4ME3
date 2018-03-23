@@ -1,0 +1,10 @@
+.section {
+	background-color: #9FD596; 
+	padding:50px;
+	height: 320px;
+}
+.paragraph {
+	position:fixed; 
+	left:100px;
+
+}

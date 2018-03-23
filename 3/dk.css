@@ -1,0 +1,32 @@
+.rojo1 {
+	background-color: red;
+	height: 280px;
+	width: 25%;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	margin-color: white;
+	float: left;
+}
+.rojo2 {
+	background-color: red;
+	height: 280px;
+	width: 50%;
+	float: left;
+	margin-bottom: 30px;
+
+}
+.rojo3 {
+	background-color: red;
+	height: 280px;
+	width: 25%;
+	margin-right: 30px;
+	margin-bottom: 10px;
+	margin-color: white;
+	float: left;
+}
+.rojo4 {
+	background-color: red;
+	height: 280px;
+	width: 50%;
+	float: left;
+}
